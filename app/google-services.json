@@ -51,11 +51,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "1002567286380-cqie6l98k7p9iprlb81ubsjsnp48erde.apps.googleusercontent.com",
+          "client_id": "1002567286380-jtt02igu5a9nvlot5od8cjon93jbtlt5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.xlukog.ReportClient",
-            "certificate_hash": "18b657eb5f8818e8eba514d7281dd674edaef345"
+            "certificate_hash": "99b71fa21a05fa130657f8d4daf80c3bc7361b72"
           }
         },
         {

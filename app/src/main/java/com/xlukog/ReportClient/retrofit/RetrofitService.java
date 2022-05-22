@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class RetrofitService {
 
     private Retrofit retrofit = new Retrofit.Builder()
-            .baseUrl("http://192.168.1.5:9000/")
+            .baseUrl("https://d51e-27-4-109-125.eu.ngrok.io")
             .addConverterFactory(GsonConverterFactory.create(new Gson()))
             .build();
     public RetrofitService(){

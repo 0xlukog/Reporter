@@ -2,24 +2,24 @@ package com.xlukog.ReportClient.model;
 
 public class Report {
     private int id;
-    private String ReportName;
-    private String ReportContent;
-    private String Location;
+    private String reportName;
+    private String reportContent;
+    private String location;
 
     public int getId() {
         return id;
     }
 
     public String getReportName() {
-        return ReportName;
+        return reportName;
     }
 
     public String getReportContent() {
-        return ReportContent;
+        return reportContent;
     }
 
     public String getLocation() {
-        return Location;
+        return location;
     }
 
     public void setId(int id) {
@@ -27,14 +27,14 @@ public class Report {
     }
 
     public void setReportName(String reportName) {
-        ReportName = reportName;
+        this.reportName = reportName;
     }
 
     public void setReportContent(String reportContent) {
-        ReportContent = reportContent;
+        this.reportContent = reportContent;
     }
 
     public void setLocation(String location) {
-        Location = location;
+        this.location = location;
     }
 }
